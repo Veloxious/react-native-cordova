@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 
 android {
     namespace "com.remobile.cordova"
-    compileSdkVersion 23
+    compileSdkVersion 30
     buildToolsVersion "30.0.3"
 
     defaultConfig {
